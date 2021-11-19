@@ -53,7 +53,7 @@ body{
   width: 100%;
   background: #111827;
   border-left: 2px solid #34df61;
-  animation: typing 3s steps(10) infinite;
+  animation: typing 6s steps(10) infinite;
 }
 @keyframes typing {
   40%, 60%{
